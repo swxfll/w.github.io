@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as o}from"./index-8d8776ad.js";const n={},r={class:"machine-overview-view"};function i(s,t){return c(),o("div",r," machine-overview ")}const _=e(n,[["render",i]]);export{_ as default};

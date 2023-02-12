@@ -1,0 +1,1 @@
+import{_ as e,o,c}from"./index-8d8776ad.js";const r={},n={class:"repo-config-overview-view"};function i(s,t){return o(),c("div",n," repo-config-overview ")}const a=e(r,[["render",i]]);export{a as default};

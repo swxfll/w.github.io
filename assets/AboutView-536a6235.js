@@ -1,0 +1,1 @@
+import{_ as t,b as o,o as s,c as _,t as c,v as a,a as n}from"./index-8d8776ad.js";const p=e=>(c("data-v-b7cee01f"),e=e(),a(),e),d={class:"about-view"},i=p(()=>n("h1",null,"This is an about page",-1)),u=[i],r={__name:"AboutView",setup(e){return o(()=>{document.title="关于 CMDB"}),(l,b)=>(s(),_("div",d,u))}},f=t(r,[["__scopeId","data-v-b7cee01f"]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as o}from"./index-8d8776ad.js";const r={},i={class:"permission-overview-view"};function c(n,t){return s(),o("div",i," PermissionOverview ")}const a=e(r,[["render",c]]);export{a as default};
